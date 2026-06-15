@@ -1,4 +1,4 @@
 # anandsingh
 This my first git repository.
 <br>
-Author - Anand singh(zindagi)
+Author - Anand singh(hello)
